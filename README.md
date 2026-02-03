@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
 <h3 align="center">I'm a Young And Energetic Aspiring Software Techie!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aish301" alt="aish301" /></a> </p>
-
 - 🔭 I’m currently working on **Expense Tracker**
 
 - 🌱 I’m currently learning **React**
