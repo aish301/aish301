@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check my portfolio at [https://aishwaryanarayanan.framer.website/](https://aishwaryanarayanan.framer.website/)
 
-- 💬 Ask me about **Angular, Javascript and UI/ Ux Designs**
+- 💬 Ask me about **Angular, Javascript and UI/ UX Designs**
 
 - 📫 How to reach me **aishwarya.nr3@gmail.com**
 
