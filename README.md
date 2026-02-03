@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://aishwaryanarayanan.framer.website/](https://aishwaryanarayanan.framer.website/)
+- 👨‍💻 Check my portfolio at [https://aishwaryanarayanan.framer.website/](https://aishwaryanarayanan.framer.website/)
 
 - 💬 Ask me about **Angular, Javascript and UI/ Ux Designs**
 
