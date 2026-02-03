@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences I have 2 years of experience in FrontEnd Development.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
